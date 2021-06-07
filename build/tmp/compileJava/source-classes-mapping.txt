@@ -1,0 +1,18 @@
+com/jorge/vertx_starter/verticles/MainVerticle.java
+ com.jorge.vertx_starter.verticles.MainVerticle
+com/jorge/vertx_starter/verticles/VerticleN.java
+ com.jorge.vertx_starter.verticles.VerticleN
+com/jorge/vertx_starter/verticles/VerticleB.java
+ com.jorge.vertx_starter.verticles.VerticleB
+com/jorge/vertx_starter/verticles/VerticleA.java
+ com.jorge.vertx_starter.verticles.VerticleA
+com/jorge/vertx_starter/verticles/VerticleAA.java
+ com.jorge.vertx_starter.verticles.VerticleAA
+com/jorge/vertx_starter/evetloops/EventLoopExample.java
+ com.jorge.vertx_starter.evetloops.EventLoopExample
+ com.jorge.vertx_starter.evetloops.EventLoopExample$RequestVerticle
+ com.jorge.vertx_starter.evetloops.EventLoopExample$ResponseVerticle
+com/jorge/vertx_starter/verticles/VerticleAB.java
+ com.jorge.vertx_starter.verticles.VerticleAB
+com/jorge/vertx_starter/MainVerticle.java
+ com.jorge.vertx_starter.MainVerticle
